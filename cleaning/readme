@@ -1,0 +1,41 @@
+1. Load and View Data
+Load the CSV file using pandas.
+
+View the first 5 rows.
+
+2. Clean the Data
+Remove leading/trailing whitespaces from column names.
+
+Standardize column names (e.g., lowercase, replace spaces with underscores).
+
+Fix data type issues (e.g., convert Age to numeric, handle "seventeen").
+
+Standardize categorical values (e.g., "YES", "yes", "Yes" → "Yes").
+
+Fill or remove missing values appropriately.
+
+Drop rows with missing names or scores.
+
+3. Basic Preprocessing
+Create a new column for average score.
+
+Convert the Passed? column to binary (1 = Yes, 0 = No).
+
+4. Basic Analysis
+Calculate:
+
+Average scores per gender.
+
+Pass rate.
+
+Number of students with missing scores.
+
+5. Optional Visualizations
+Plot a histogram of average scores.
+
+Show average scores by gender using a bar chart.
+
+✅ Deliverables
+Cleaned DataFrame
+
+Summary of data issues and how they were handled
