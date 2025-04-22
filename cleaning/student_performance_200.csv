@@ -1,0 +1,201 @@
+Name, Age ,Gender ,Math Score ,Reading Score, writing_score,Passed?, Notes
+Alice,16,Male,56,87,99,no,Needs improvement
+ Eve ,17, Male ,63,,46,YES,Excellent
+Bob, 16 ,Female,46,92,49,yes,Late submissions
+Grace, 18 , Male ,,56,73,YES,Needs improvement
+Ivy,16,Male,46,80,91,No,Late submissions
+ Ivy ,16,Male,75,51,54,Yes,Late submissions
+Paul,18,Female,84,68,73,YES,Active in class
+David, 15 , Male ,50,44,62,Yes,Late submissions
+Tina, 16 ,Male,83,96,92,yes, 
+Grace,15, Male ,,73,42,YES, 
+Rose,15, Male ,45,45,47,YES,
+Ivy,15,Female,51,46,55,YES,Active in class
+Bob, 17 ,Female,97,64,53,yes,Excellent
+  ,17, Female ,69,48,75,no,Good student
+David,15,Male,50,40,81,no,Needs improvement
+Henry, 17 , Female ,42,81,82,yes,
+Mona, 15 ,Female,77,95,54,Yes,Needs improvement
+Oscar,17,Male,75,68,81,No,Excellent
+ Alice ,17,Male,41,60,94,Yes,Active in class
+, 18 ,Female,46,70,59,No,Active in class
+Liam,17, Male ,77,69,82,no,Late submissions
+ Paul ,18,Male,74,51,88,yes, 
+ Oscar ,18,Female,73,57,87,no,Excellent
+Grace, 17 , Male ,100,56,81,No,Excellent
+Oscar, 16 ,Female,67,,96,yes,Good student
+Charlie,16, Female ,44,,47,yes,
+ Tina ,18,Female,96,100,97,YES,
+Kara,18, Male ,79,97,40,No,Active in class
+ Ivy ,16, Male ,53,,88,yes,Late submissions
+Bob,17,Male,69,71,,No,Needs improvement
+ Rose ,16,Female,76,52,55,yes,Active in class
+Alice,18,Male,42,87,61,yes,Excellent
+, seventeen ,Male,87,58,50,No,Needs improvement
+ Sam ,16,Female,72,56,70,yes,Late submissions
+Eve,15,Male,97,76,54,no,Good student
+ Kara , 15 ,Male,86,56,45,no,
+Eve, 18 ,Male,80,94,56,yes,Active in class
+Mona,15,Male,57,89,,no,
+Eve, 16 , Female ,62,,88,Yes, 
+Nina,17,Male,97,96,52,no,Needs improvement
+Paul,16,Female,83,79,94,Yes,
+Ivy,16,Male,63,59,97,yes,Active in class
+Ivy, 18 ,Female,,83,53,No,Good student
+ Alice , 18 ,Male,60,49,99,YES,Active in class
+Frank, 18 , Female ,95,73,75,YES, 
+ Charlie ,seventeen, Female ,97,92,76,No,Late submissions
+ Jack ,15, Male ,73,52,,no,Excellent
+David,16,Male,93,46,78,YES,Needs improvement
+Grace, 17 ,Male,100,78,90,No, 
+Charlie,16,Male,99,86,64,YES,Needs improvement
+Quincy,17,Female,79,,56,yes,Excellent
+Mona,18, Male ,63,64,85,YES,Late submissions
+ Nina ,15,Male,50,75,46,No,
+David, 18 ,Male,45,45,41,Yes,
+Frank, 16 ,Female,65,93,82,no,Late submissions
+ Mona ,16,Female,72,50,67,No, 
+ Quincy ,18, Female ,75,52,98,no,
+Henry,18, Female ,99,87,83,no,Excellent
+Eve,17,Female,74,100,91,Yes,Excellent
+David, 16 ,Female,95,78,94,Yes,Needs improvement
+Quincy,15,Female,43,55,61,YES,Late submissions
+Rose, 15 ,Male,62,53,78,no,Late submissions
+ Grace ,16,Male,87,56,91,YES, 
+Bob,16,Female,93,57,81,No, 
+Alice,16,Female,46,,81,yes,Needs improvement
+Bob, seventeen , Male ,83,92,94,No,Active in class
+Frank,17,Male,89,41,68,No,Needs improvement
+Henry, 16 ,Female,90,42,41,Yes,Late submissions
+Kara, 18 ,Female,51,62,57,YES, 
+ Nina ,18, Female ,73,49,65,Yes,Late submissions
+ Jack ,15,Male,100,43,47,YES, 
+ Frank ,17, Male ,100,55,51,YES,Excellent
+Tina,18,Female,91,73,90,yes,Needs improvement
+ Paul ,17,Female,65,40,64,yes, 
+Tina,17, Female ,42,82,68,no,
+Oscar,18, Female ,96,43,77,no, 
+Quincy,15,Female,63,65,76,No,Needs improvement
+Henry,15, Male ,97,85,45,yes,
+ Tina ,15, Female ,93,81,92,yes,Good student
+ Frank ,17, Male ,46,83,63,No,Needs improvement
+ Liam ,18,Female,53,63,63,YES,Good student
+Tina,16, Male ,45,40,56,yes,Active in class
+Eve,17,Female,89,75,72,No,Excellent
+Frank,18,Female,84,40,65,YES,Active in class
+Frank,16, Female ,98,72,93,No, 
+Bob,17,Male,79,46,84,No,Needs improvement
+Rose, seventeen ,Female,93,68,86,No,Good student
+Sam, 17 ,Male,63,95,41,Yes, 
+ Charlie , 16 , Female ,58,59,96,yes,Late submissions
+ Quincy ,16,Male,44,73,74,yes,Good student
+Henry, 17 ,Female,71,48,78,No,Excellent
+Ivy,16,Female,44,62,83,Yes,Excellent
+ Nina ,17,Male,63,56,46,YES,Good student
+Grace,18, Male ,,77,79,no,Active in class
+Paul,18,Female,58,83,72,Yes, 
+Kara,17,Female,43,91,82,Yes,
+ Kara ,15,Male,81,92,66,no,
+ Charlie , 17 ,Male,81,42,42,Yes,Good student
+David,15,Female,82,65,61,Yes,Excellent
+Paul,18,Female,62,43,67,no, 
+Grace,18, Male ,73,76,41,YES,Late submissions
+Charlie,17,Female,64,90,90,YES,Active in class
+ Quincy ,15,Female,82,91,60,YES, 
+Oscar,15, Male ,97,,42,YES,Needs improvement
+Charlie,16, Female ,84,77,98,no,Excellent
+Jack,16, Female ,,80,96,no,Good student
+Eve,16,Female,,62,99,Yes,Needs improvement
+ Liam , 17 ,Female,60,67,96,YES,Late submissions
+Alice,16,Male,81,45,62,YES,Good student
+Frank,18, Female ,78,88,84,Yes, 
+ Grace ,17, Female ,93,69,74,no, 
+Oscar,18,Female,48,51,67,no,Needs improvement
+Henry, 17 ,Female,46,93,80,No,Active in class
+Sam,15,Male,94,70,75,yes,Active in class
+Quincy,17, Male ,43,71,70,No,Good student
+Frank,15,Female,43,89,86,Yes,Needs improvement
+,17,Male,91,57,42,No,Needs improvement
+Liam,16, Male ,77,,99,Yes,Active in class
+Paul,17, Male ,75,86,58,Yes,
+ Kara ,18,Male,71,,,No,Late submissions
+Mona, 16 ,Male,90,91,75,yes, 
+Eve,15,Male,98,49,53,Yes,
+ Bob ,16,Male,92,62,42,no,Good student
+David,17,Female,64,70,66,yes,
+David,17,Male,63,53,62,yes,Active in class
+ Frank ,15, Male ,56,56,97,no,Active in class
+ Oscar ,17,Male,64,94,71,yes, 
+Jack,16,Male,,80,85,No, 
+Liam,16,Male,79,94,43,no,
+ Henry ,17, Female ,62,45,63,No,Needs improvement
+Frank,18,Male,76,99,85,Yes,Excellent
+ Jack , 17 ,Female,69,84,62,No,Needs improvement
+Jack,15, Female ,66,57,95,YES,Good student
+Quincy, 18 , Female ,42,65,47,Yes, 
+ Sam ,16,Male,40,43,68,YES,Late submissions
+Kara,16,Female,96,40,,no,Late submissions
+ Quincy ,seventeen,Female,98,64,40,no,Good student
+ Alice ,16,Female,88,83,,no,Late submissions
+ David , 15 ,Female,67,78,,YES,Excellent
+Jack, 16 , Male ,68,58,94,yes,
+Quincy,16,Female,98,98,90,YES,Active in class
+Liam,17, Male ,90,97,65,No,
+Mona, 17 ,Female,86,50,99,yes,Needs improvement
+Tina,16,Male,40,82,100,Yes,Good student
+Liam,15,Female,49,44,88,No,Excellent
+ Jack , 17 ,Male,89,86,65,YES,Good student
+Rose,15,Female,55,54,51,no,Needs improvement
+ Quincy , 18 , Female ,47,64,92,yes,
+Oscar, 16 ,Male,75,98,83,yes, 
+Henry, 18 ,Male,72,54,53,no,
+Sam,17,Male,81,62,93,no, 
+David,15,Female,58,96,80,Yes,
+ Alice ,seventeen, Female ,87,80,73,YES,Good student
+Bob,15,Female,61,91,73,yes,Active in class
+Grace,17,Male,77,90,67,No,Good student
+Paul,18,Female,73,87,74,no,Active in class
+Kara,15,Female,40,62,100,no,Needs improvement
+Rose, seventeen ,Male,85,58,65,YES,Late submissions
+  ,17,Female,85,59,84,yes, 
+ Grace ,18,Female,40,96,79,No,Needs improvement
+ David ,17,Female,99,83,43,YES,Good student
+Nina,seventeen, Male ,41,90,99,No, 
+Grace,17,Male,48,55,54,No,Late submissions
+David, 16 , Male ,55,88,63,YES,Late submissions
+ Ivy , 17 ,Female,90,76,61,YES,Needs improvement
+Ivy,15,Female,41,49,44,YES,
+ Liam ,15,Female,43,57,82,no,Needs improvement
+Alice,15,Female,87,79,66,no,
+ Mona , 16 ,Female,61,52,71,yes,Active in class
+ David ,17, Male ,95,78,71,YES,Late submissions
+Paul,17,Female,95,,84,no, 
+Nina,seventeen,Female,63,77,45,YES,Active in class
+David, 18 ,Male,99,,65,YES,Good student
+Tina,18,Male,74,48,62,no,Needs improvement
+Charlie,18,Female,53,47,86,no,Late submissions
+ Rose ,17, Female ,75,45,86,Yes,Good student
+ Frank ,17,Female,41,42,52,No,Late submissions
+Liam,15,Male,46,49,72,yes, 
+ David ,18,Female,90,53,94,No,Late submissions
+ Eve ,17,Male,41,66,89,Yes,Late submissions
+  , 15 ,Male,43,60,47,no,Needs improvement
+Sam,15, Female ,99,87,61,YES,
+Tina,18, Male ,50,65,77,Yes,Late submissions
+ Tina ,16,Male,66,93,93,Yes,Active in class
+Oscar,18, Male ,43,55,85,no,Needs improvement
+ Rose ,18,Female,100,45,90,no,Good student
+Alice,18,Male,78,47,54,no, 
+Quincy,17,Female,97,45,80,No,Needs improvement
+ Sam , 17 ,Male,51,44,49,YES,Needs improvement
+  ,18,Female,46,70,70,yes,Good student
+ Liam ,18,Female,41,90,68,No,Active in class
+Henry,16, Male ,87,42,48,yes,Needs improvement
+Nina, 18 ,Male,42,83,88,no,Active in class
+Nina, 17 ,Male,90,46,74,no,Excellent
+Alice, 17 ,Male,93,53,,No,Active in class
+Kara, 18 ,Male,91,55,80,no, 
+Bob, 16 , Male ,64,87,59,YES,Active in class
+Nina, 16 ,Male,40,100,43,no,Excellent
+Alice, 18 , Male ,44,59,41,Yes,Needs improvement
+ Henry ,17,Female,86,85,58,yes,Needs improvement
