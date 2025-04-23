@@ -1,0 +1,37 @@
+✅ Tasks
+1. Load and Inspect the Data
+Load the dataset using pandas
+
+View summary statistics and column data types
+
+2. Clean the Data
+Remove leading/trailing whitespaces from column names
+
+Standardize Price (convert to float, remove currency symbols)
+
+Convert Quantity Sold to numeric, fixing or removing incorrect values like “five” or “N/A”
+
+Convert Sale Date to proper datetime format
+
+Standardize Store names (title case or consistent casing)
+
+Drop or fill missing values as needed
+
+Remove duplicate rows
+
+3. Feature Engineering
+Create a Total Sale column = Price × Quantity Sold
+
+Extract Month from Sale Date
+
+4. Basic Analysis
+Total revenue per store
+
+Most sold product
+
+Monthly sales trend
+
+5. Optional Visualization
+Bar chart of total revenue per store
+
+Line chart showing monthly sales trend
